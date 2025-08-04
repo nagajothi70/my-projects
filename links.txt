@@ -1,1 +1,4 @@
 
+1. timetable generator - https://github.com/nagajothi70/TIMETABLE-GENERATOR-PROJECT.git
+2. event  management - https://github.com/nagajothi70/EVENT-MANAGEMENT.git
+
